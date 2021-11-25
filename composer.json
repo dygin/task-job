@@ -7,6 +7,7 @@
             "Clygin\\TaskJob\\": "src/"
         }
     },
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Clygin",
