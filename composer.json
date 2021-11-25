@@ -1,0 +1,20 @@
+{
+    "name": "clygin/task-job",
+    "description": "add backend task to run with multi-processes",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Clygin\\TaskJob\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Clygin",
+            "email": "clygintang@gmail.com"
+        }
+    ],
+    "require": {
+      "ext-pcntl": "*",
+        "ext-json": "*"
+    }
+}
