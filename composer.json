@@ -2,6 +2,7 @@
     "name": "clygin/task-job",
     "description": "add backend task to run with multi-processes",
     "license": "MIT",
+    "type": "library",
     "autoload": {
         "psr-4": {
             "Clygin\\TaskJob\\": "src/"
@@ -15,6 +16,7 @@
         }
     ],
     "require": {
+        "php": ">=7.0",
       "ext-pcntl": "*",
         "ext-json": "*"
     }
