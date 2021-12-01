@@ -1,6 +1,6 @@
 {
     "name": "clygin/task-job",
-    "description": "add backend task to run with multi-processes",
+    "description": "Add Backend Task with PCNTL",
     "license": "MIT",
     "type": "library",
     "autoload": {
