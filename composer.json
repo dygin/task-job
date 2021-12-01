@@ -1,6 +1,6 @@
 {
     "name": "clygin/task-job",
-    "description": "Add Backend Task with PCNTL",
+    "description": "Add Backend Task with PCNTL For PHP-FPM Mode",
     "license": "MIT",
     "type": "library",
     "autoload": {
